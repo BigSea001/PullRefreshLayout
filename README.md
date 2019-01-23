@@ -88,3 +88,5 @@ dependencies {
     }
 ```
 
+<img src="https://github.com/BigSea001/PullRefreshLayout/blob/master/art/SM-G9650_20190123171953.mp4" width = "300" alt="图片名称" align=center />
+
