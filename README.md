@@ -88,5 +88,6 @@ dependencies {
     }
 ```
 效果预览
+</br>
 <img src="https://github.com/BigSea001/PullRefreshLayout/blob/master/art/GIF.gif" width = "300" alt="图片名称" align=center />
 
